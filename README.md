@@ -3,6 +3,7 @@
 #### 1.1 Model 1
 
 ![modell](https://user-images.githubusercontent.com/55443383/83519954-d97e8600-a517-11ea-958c-b6cff9b53917.PNG)
+![modellcode](https://user-images.githubusercontent.com/55443383/83523113-996dd200-a51c-11ea-8590-be3a29030bfe.PNG)
 
 
 #### 1.2 Training with Training loss
